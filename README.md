@@ -4,7 +4,7 @@ Dự án này triển khai Repository Pattern trong Laravel, giúp tách biệt 
 
 ## Cấu trúc
 
-
+```
 app/
 ├── Repositories/
 │ ├── Interfaces/
@@ -18,6 +18,7 @@ app/
 └── Controllers/
 └── Api/
 └── UserController.php
+```
 
 ## Cách sử dụng
 
